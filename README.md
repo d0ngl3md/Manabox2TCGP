@@ -2,6 +2,9 @@
 
 This tool helps Magic: The Gathering sellers manage and price their inventory for upload to TCGPlayer. It allows you to compare your current inventory (from either ManaBox or a TCGPlayer export) with the latest TCGPlayer pricing data and export a CSV ready for upload.
 
+![image](https://github.com/user-attachments/assets/62669ef2-accf-434b-a5e2-85584fae231e)
+
+
 ## Features
 
 - Supports two inventory formats:
